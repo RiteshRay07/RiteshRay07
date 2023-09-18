@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://riteshray07.github.io/Portfolio/](https://riteshray07.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio Link](https://riteshray07.github.io/Portfolio/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **DeveloperRiteshray@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1oXuqzbQ3o1-kp0OQ-vnsVh-n2TKoIunT](https://drive.google.com/drive/folders/1oXuqzbQ3o1-kp0OQ-vnsVh-n2TKoIunT)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/drive/folders/1oXuqzbQ3o1-kp0OQ-vnsVh-n2TKoIunT)
 
 - ⚡ Fun fact **I think I am very funny and Responsible Person**
 
