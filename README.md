@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Ray</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="550" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/0/1634533856823?e=1710979200&v=beta&t=rksRflX8Y3nTTpBZxkBatswJOgH4uybrECs-6MQQn-0">
+<img align="right" alt="Coding" width="500" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/0/1634533856823?e=1710979200&v=beta&t=rksRflX8Y3nTTpBZxkBatswJOgH4uybrECs-6MQQn-0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshray07&label=Profile%20views&color=0e75b6&style=flat" alt="riteshray07" /> </p>
 
